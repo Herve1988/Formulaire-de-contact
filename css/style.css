@@ -1,0 +1,49 @@
+
+body
+{
+    background: linear-gradient(217deg, #513445, #45364D 70.71%),
+    linear-gradient(127deg, #45374C, #2A385A 70.71%),
+    linear-gradient(336deg, #45394E, #2A385A 70.71%);
+}
+.container
+{
+    margin: 0 auto ;
+    width: 200px;
+}
+.myform h1
+{
+    font-size: 15px;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    margin: 30px 0px;
+    text-align: center;
+    color: white;
+}
+.container form
+{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
+
+}
+.container form label
+{
+    margin-bottom: 10px;
+    color: white;
+    
+}
+.container form input
+{
+    border-radius: 5px;
+    background-color: #2F2D3E;
+    border:1px solid #52536C;
+    color: white;
+}
+.container form textarea
+{
+    border-radius: 5px;
+    background-color: #2F2D3E;
+    border:1px solid #52536C;
+    color: white;
+}
